@@ -1,2 +1,2 @@
-# Spam-tin-nh-n
-spamtinnhan
+cd TOOL
+python spam.py
